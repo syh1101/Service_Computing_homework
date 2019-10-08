@@ -220,4 +220,5 @@ func outDes(fout interface{}, fin *os.File, pageStart int, pageEnd int, pageLeng
 [go文件读写](http://wiki.jikexueyuan.com/project/the-way-to-go/12.2.html)   
 [os/exec使用-golang](https://blog.csdn.net/chenbaoke/article/details/42556949)  
 [bufio包使用](https://www.cnblogs.com/maxiaoyun/p/7007755.html)  
-[selpg.c源代码](https://www.ibm.com/developerworks/cn/linux/shell/clutil/selpg.c)
+[selpg.c源代码](https://www.ibm.com/developerworks/cn/linux/shell/clutil/selpg.c)  
+[感谢博客](https://segmentfault.com/a/1190000016648238)
